@@ -466,19 +466,16 @@
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 1.5rem;
-            align-items: end;
+            align-items: start;
         }
 
         .property-card img {
             width: 100%;
+            height: 300px;
             border-radius: 1rem;
             object-fit: cover;
             margin-bottom: 1rem;
         }
-        
-        .property-card:nth-child(1) img { height: 200px; }
-        .property-card:nth-child(2) img { height: 350px; }
-        .property-card:nth-child(3) img { height: 250px; }
 
         .property-info {
             display: flex;
