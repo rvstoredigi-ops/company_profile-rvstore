@@ -13,7 +13,7 @@
             --dark: #121212;
             --light: #F9F9F9;
             --gray: #666666;
-            --bg-color: #FAFAFA; /* Bright, clean background */
+            --bg-color: #F0F2F5; /* Softer, slightly darker background */
         }
         
         html {
