@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LeonHome - Real Estate</title>
+    <title>RVHome - Real Estate</title>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -536,7 +536,7 @@
         
         <nav>
             <div class="logo">
-                <i class="fa-solid fa-leaf"></i> LeonHome
+                <i class="fa-solid fa-leaf"></i> RVHome
             </div>
             <div class="nav-links">
                 <a href="#home" class="active">Home</a>
@@ -551,7 +551,7 @@
                     <a href="#"><i class="fa-brands fa-instagram"></i></a>
                     <a href="#"><i class="fa-solid fa-x"></i></a>
                 </div>
-                <a href="#" class="contact-btn"><i class="fa-solid fa-phone"></i> <span>+0 234 564 33 008</span></a>
+                <a href="#" class="contact-btn"><i class="fa-solid fa-phone"></i> <span>+62 812 3456 7890</span></a>
             </div>
         </nav>
 
@@ -560,7 +560,7 @@
                 <span>Innovation</span>
                 <span>Upgrade your life with smart home technology</span>
             </div>
-            <h1 class="hero-title">LEON HOME</h1>
+            <h1 class="hero-title">RV HOME</h1>
         </div>
 
         <div class="hero-stats">
@@ -587,7 +587,7 @@
             <div class="s2-grid">
                 <div class="s2-left">
                     <h3>Your Trusted Partner in Finding the Perfect Home</h3>
-                    <p>At LeonHome Real Estate, we believe that buying or selling a home should be an exciting and stress-free experience.</p>
+                    <p>At RVHome Real Estate, we believe that buying or selling a home should be an exciting and stress-free experience.</p>
                     <a href="#" class="btn-dark">About Us</a>
                     
                     <div class="partners">
@@ -694,7 +694,7 @@
     </section>
 
     <footer style="background: var(--dark); color: #AAA; text-align: center; padding: 2.5rem 2rem; font-size: 0.9rem;">
-        <p>&copy; 2026 LeonHome Real Estate. Template by <span style="color: white; font-weight: 600;">RVStore</span>. All rights reserved.</p>
+        <p>&copy; 2026 RVHome Real Estate. Template by <span style="color: white; font-weight: 600;">RVStore</span>. All rights reserved.</p>
     </footer>
 
 </body>
